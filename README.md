@@ -1,2 +1,5 @@
 # CT206-PythonProjects
-Projects for class, CT206. 
+This repository serves as a hub for projects for CT206
+
+Owner: ApolloFoxHound
+Date of Creation: 10/10/2023
