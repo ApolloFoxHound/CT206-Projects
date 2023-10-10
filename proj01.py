@@ -1,4 +1,3 @@
-# Zakarri Smith
 # Due October 1st, 2023
 # Title: Project 1
 import time
