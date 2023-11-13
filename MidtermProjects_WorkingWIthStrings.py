@@ -1,5 +1,5 @@
 # Working with Strings
-# https://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/03_Strings/Hangman/
+# URL: https://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/03_Strings/Hangman/
 # Hangman
 
 import random
