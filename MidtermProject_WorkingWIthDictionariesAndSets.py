@@ -1,5 +1,5 @@
 # Dictionaries and Sets
-# https://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/06_Dictionaries/DocRetrieval/
+# URL: https://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/06_Dictionaries/DocRetrieval/
 # Doc Retrieval
 # This file utilizes the provided ap_docs.txt that was given in the assignment.
 
