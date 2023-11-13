@@ -1,5 +1,5 @@
 # Lists and Tuples
-# https://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/05_ListsTuples/Pascal/
+# URL: https://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/05_ListsTuples/Pascal/
 # Pascal's Triangle
 
 # user input the height
